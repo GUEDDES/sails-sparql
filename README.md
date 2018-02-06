@@ -14,7 +14,7 @@ Strict adherence to an adapter specification enables the (re)use of built-in gen
 To install this adapter, run:
 
 ```sh
-$ npm install waterline-sails-sparql
+$ npm install sails-sparql
 ```
 
 
